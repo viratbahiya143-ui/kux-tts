@@ -1,1 +1,25 @@
-{"voice":"Show host (US, m)","parts":[{"id":1,"text":"test"}]}
+{
+  "voice": "voice-donations/spanish-limaperu_enhanced.wav",
+  "parts": [
+    {
+      "id": 11,
+      "text": "Y no lo digo para destruir tu fe en las personas ni para que salgas a desconfiar de todos. Lo digo para que dejes de construir tu vida entera sobre cimientos que no van a sostenerte cuando el piso tiemble. Porque el piso siempre tiembla. Y cuando tiembla, solo queda lo que de verdad estaba firme. Piensa en esa amiga que tuviste durante años. Compartían todo — secretos a las tres de la mañana, llantos en el baño, risas que nadie más entendía. Tú hubieras puesto la mano en el fuego por ella."
+    },
+    {
+      "id": 12,
+      "text": "Luego algo cambió. Quizás conseguiste pareja y dejaste de estar disponible para salir cada viernes. Quizás atravesaste una depresión y dejaste de ser la que siempre tenía energía para escuchar sus problemas. Quizás empezaste a crecer — profesionalmente, emocionalmente, espiritualmente — y ese crecimiento perturbó algo en el equilibrio invisible que sostenía la amistad. De pronto, los mensajes tardaban días en ser respondidos."
+    },
+    {
+      "id": 13,
+      "text": "Las excusas para no verse se multiplicaban con una creatividad sospechosa. La que juraba ser tu hermana del alma se convirtió en una desconocida que le da me gusta a tus fotos de vez en cuando. Y tú te quedaste mirando el hueco que dejó, preguntándote qué hiciste mal, revisando cada conversación buscando el momento exacto donde rompiste algo. No hiciste nada mal. Lo que pasó fue más simple y más cruel que cualquier pelea o malentendido: dejaste de ofrecer lo que alimentaba esa relación."
+    },
+    {
+      "id": 14,
+      "text": "Quizás era compañía constante. Quizás era la validación de hacerla sentir que su vida era más interesante junto a ti. Quizás era simplemente que tu presencia llenaba un vacío que ella no quería mirar sola. Cuando eso se detuvo — por las razones que fuera — el vínculo se secó. No porque fuera falso en su momento. Sino porque estaba construido sobre un intercambio que dejó de funcionar. Y las relaciones que solo viven del intercambio mueren cuando el intercambio se detiene."
+    },
+    {
+      "id": 15,
+      "text": "Ahora piensa en esa relación donde diste todo. Donde te vaciaste gota a gota creyendo que eso era amor. Ese hombre que te decía que eras su mundo entero, que no podía vivir sin ti, que nunca había sentido algo así. Y cuando te enfermaste, cuando subiste de peso, cuando atravesaste tu peor momento emocional y necesitabas que alguien te sostuviera a ti por primera vez — él empezó a distanciarse como si tu dolor fuera contagioso. Llegaba más tarde. Respondía más seco."
+    }
+  ]
+}
